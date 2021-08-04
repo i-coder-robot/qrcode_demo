@@ -13,3 +13,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+/.idea/modules.xml
+/.idea/qrcode_demo.iml
+/.idea/vcs.xml
+/title.png
